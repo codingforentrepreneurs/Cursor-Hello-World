@@ -1,0 +1,25 @@
+# Ignore system and hidden files
+.*
+!.gitignore
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore dependencies
+/node_modules
+/vendor
+
+# Ignore build output
+/dist
+/build
+
+# Ignore environment-specific files
+.env
+.env.*
+!.env.example
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
