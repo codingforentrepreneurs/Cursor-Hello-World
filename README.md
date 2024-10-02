@@ -53,7 +53,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Contact
 
-Justin Mitchel - [@codingforentrepreneurs](https://github.com/codingforentrepreneurs) - codingforentrepreneurs@gmail.com
+Justin Mitchel - [@codingforentrepreneurs](https://github.com/codingforentrepreneurs)
 
 Project Link: [https://github.com/codingforentrepreneurs/Cursor-Hello-World](https://github.com/codingforentrepreneurs/Cursor-Hello-World)
 
